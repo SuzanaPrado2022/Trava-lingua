@@ -1,0 +1,57 @@
+.principal {
+	background: #87c9ce;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+	padding-bottom: 10px;
+}
+
+.titulo-principal {
+	padding-left: 5px;
+}
+
+#rato {
+	width:100%;
+}
+
+.titulo-centralizado {
+	text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+em strong {
+    color: #FF0000;
+}
+
+.palavras {
+	background: #c4a9c1;
+	padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+	padding-bottom: 30px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 10%;
+    margin-left: 15%;	
+}
+
+.itens {
+	font-style: italic;
+    font-size: 25px;
+}
+
+#letra-R {
+    margin-left: 15%;
+	width:20%;
+}
+
+#Trava-língua {
+	width:100%;
+}
